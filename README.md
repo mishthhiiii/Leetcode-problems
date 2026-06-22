@@ -1,10 +1,7 @@
 # 🚀 LeetCode Solutions
 
-A curated collection of my LeetCode solutions covering Data Structures, Algorithms, and Problem Solving.
-
-## 📌 About
-
-This repository contains my solutions to LeetCode problems solved as part of my journey in mastering:
+A curated collection of my LeetCode solutions covering Data Structures, Algorithms, and Problem Solving,
+LeetCode problems solved as part of my journey in mastering:
 
 - Data Structures & Algorithms
 - Problem Solving
